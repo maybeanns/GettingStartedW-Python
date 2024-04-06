@@ -7,4 +7,6 @@
 - Day 6: Variables and Datatypes
 - Day 7: Typecasting
 - Day 8: String Slicing and Operations, Built-in Methods
-- Day 9: Greetings code=time method 
+- Day 9: Greetings code=time method
+- Day 10: For Loop, While loop
+- Day 11: Break/Continue, Match Cases, Function & Arguments
