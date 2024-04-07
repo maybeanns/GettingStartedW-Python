@@ -10,3 +10,5 @@
 - Day 9: Greetings code=time method
 - Day 10: For Loop, While loop
 - Day 11: Break/Continue, Match Cases, Function & Arguments
+- Day 12: List and its Methods, Tuples, fstrings, Docstrings, Sets, Dictionary
+- Day 13: For loop with else, exception handling, raising custom errors, short hand if-else statement, enumerate, virtual environment
