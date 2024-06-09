@@ -12,4 +12,5 @@
 - Day 11: Break/Continue, Match Cases, Function & Arguments
 - Day 12: List and its Methods, Tuples, fstrings, Docstrings, Sets, Dictionary
 - Day 13: For loop with else, exception handling, raising custom errors, short hand if-else statement, enumerate, virtual environment
-- Day 14: Recursion, os module, file I/O, read, readlines, seek(), tell(),  map, filter, reduce, lambda, decorators 
+- Day 14: Recursion, os module, file I/O, read, readlines, seek(), tell(),  map, filter, reduce, lambda, decorators
+- Day 15: Practicing Pandas, NumPy
